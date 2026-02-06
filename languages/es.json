@@ -1,0 +1,50 @@
+{
+    "menu": {
+        "item2": "Sobre mí",
+        "item3": "Habilidades",
+        "item4": "Formación",
+        "item5": "Proyectos",
+        "item6": "Contacto"
+    },
+    "home": {
+        "home_text-1": "¡Hola, soy!",
+        "home_text-3": "Desarrollador web full-stack",
+        "parrafo-info": "Estudiante de programación en Udemy enfocado en desarrollo web full-stack. Me gusta crear interfaces intuitivas y estéticas que ofrezcan la mejor experiencia de usuario.",
+        "cv_button": "Descargar CV",
+        "contact_button": "Contacto"
+    },    "hero": {
+        "security_title": "&lt;seguridad&gt;",
+        "security_text": "Ciberseguridad basica, buenas practicas y analisis de riesgos para proteger sistemas.",
+        "coder_text": "Desarrollo full stack con codigo limpio, rapido y elegante."
+    },
+    "sobre-mi": {
+        "title": "Sobre mí",
+        "texto_sobreMi": "Soy estudiante de Udemy y autodidacta de desarrollo web, enfocado en programación full-stack junior y lenguajes móviles.<br>Aspiro a conseguir empleo en el mundo del desarrollo web, adquirir experiencia, nuevos conocimientos y fortalecer mi vida profesional.<br><br>Soy una persona empática y entusiasta, con competencias enfocadas en el trabajo en equipo, comunicación asertiva, resolución de problemas, responsable y proactivo. Me gusta aprender de los demás y superarme continuamente."
+    },
+    "habilidades": {"title": "Habilidades", "subtitle": "En proceso"},
+    "formacion": {
+        "title": "Formación",
+        "formacion1": "Ingeniero de Software",
+        "tiempo-formacion1": "2024 - En curso",
+        "formacion2": "Desarrollo Web Full-Stack",
+        "tiempo-formacion2": "2023 - 2024",
+        "formacion3": "Ciberseguridad"
+    },
+    "proyectos": {
+        "title": "Proyectos",
+        "title-proyecto1": "Juego del Ahorcado",
+        "info-proyecto1": "Un juego donde el usuario debe adivinar la palabra secreta con un cierto número de oportunidades. La palabra se escoge de forma aleatoria por el programa.",
+        "title-proyecto2": "Portafolio",
+        "info-proyecto2": "Mi portafolio web personal, donde se encuentran algunos de mis proyectos más destacados, mis habilidades técnicas y un poco sobre mi formación.",
+        "title-proyecto3": "Encriptador de Texto",
+        "info-proyecto3": "Un encriptador donde el usuario puede escribir un texto y el encriptador lo codifica con llaves ya programadas. El encriptador también permite desencriptar el texto."
+    },
+    "contacto": {
+        "title": "Contacto",
+        "text": "Completa el siguiente formulario y me pondré en contacto contigo lo antes posible. Al enviarlo, se me notifica por correo a srjoshua08@gmail.com cada vez que alguien completa sus datos.",
+        "btn-enviar": "Enviar"
+    }
+}
+
+
+
