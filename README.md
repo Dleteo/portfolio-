@@ -7,10 +7,12 @@
 
 ---
 
-![portafolio-presentacion](Open.png)
+![Vista previa](images/Open.png)
+
 
 ---
 
 [**Link del sitio web** ✌](https://dleteo.github.io/portfolio/)
 ---
+
 
